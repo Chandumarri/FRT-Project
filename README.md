@@ -25,25 +25,40 @@ This is a web based application developed for Edu-Tech related english based web
 
 ### Home-
 
+![c1](https://user-images.githubusercontent.com/118579521/208649893-49553439-eadd-49bb-b120-94a2b0452aea.png)
+
    
 
 ### About -
+![c2](https://user-images.githubusercontent.com/118579521/208650043-a8ffec03-b793-4e09-9352-d3809686bb2c.png)
 
 
 
 ### Services-
 
+![c3](https://user-images.githubusercontent.com/118579521/208650199-893e996e-b779-47b7-823a-bb639a57aa13.png
 
 
 ### Contact-
 
+![c4](https://user-images.githubusercontent.com/118579521/208650377-00ffe5bf-1ace-4c01-aaf6-7da23200118d.png)
+
+
+
+### healthbot -
+![c5](https://user-images.githubusercontent.com/118579521/208650524-919d4375-c050-40ed-bd72-5f719b180f8f.png)
+
+
 
 
 ### Azure Healthbot-
+![c7](https://user-images.githubusercontent.com/118579521/208650799-f8985f32-786b-4ced-9320-04e6accd4f76.png)
 
  
 
+### static web app -
 
+![c6](https://user-images.githubusercontent.com/118579521/208650657-c2131c87-dd1d-42ec-960e-71aa42b2da84.png)
 
 
 

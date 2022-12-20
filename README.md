@@ -36,7 +36,8 @@ This is a web based application developed for Edu-Tech related english based web
 
 ### Services-
 
-![c3](https://user-images.githubusercontent.com/118579521/208650199-893e996e-b779-47b7-823a-bb639a57aa13.png
+![c8](https://user-images.githubusercontent.com/118579521/208650998-441c1cb0-60ac-4bfe-96dc-890876a4f6c8.png)
+
 
 
 ### Contact-
